@@ -36,6 +36,7 @@ Dazzling is based on Underscores http://underscores.me/, (C) 2012-2015 Automatti
 13. Mobile Styling
 14. Social icons
 15. Call For Action
+16. 59volts Styles
 */
 
 /* =Global
@@ -990,3 +991,30 @@ p.logged-in-as {
 .cfa-button:hover a {
     color: #1FA67A;
 }
+
+/* 59volts Styles */
+
+.entry-title a {
+  color: #eee;
+  font-family: Palatino;
+}
+
+.navbar.navbar-default {
+   border-color: #353535;
+}
+
+.entry-meta .fa {
+   color: inherit;
+}
+
+.navbar > .container .navbar-brand {
+   color: #d0d0d0;
+}
+
+.btn.btn-default.read-more {
+   background-color: #FFC000;
+   border-color: black;
+   color: #000000 !important;
+    /* #fcbf07 */
+}
+
